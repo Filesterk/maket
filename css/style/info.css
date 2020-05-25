@@ -1,0 +1,22 @@
+.info {
+  height: 160px;
+  background: linear-gradient(#edfffd, #c2f2ed);
+}
+.info-text span {
+  font-size: 22px;
+  color: #4484ad;
+}
+.info-text img {
+  margin-top: 15px;
+  margin-right: 10px;
+}
+.describe-text {
+  margin-top: 18px;
+  font-size: 13px;
+}
+
+@media (max-width: 1200px) {
+  .info {
+    height: auto;
+  }
+}

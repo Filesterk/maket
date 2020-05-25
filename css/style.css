@@ -1,0 +1,14 @@
+@import url("style/navbar.css");
+@import url("style/header.css");
+ @import url("style/slider-form.css");
+ @import url("style/info.css");
+ @import url("style/portfolio.css");
+ @import url("style/section-form.css");
+ @import url("style/footer.css");
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+ 
